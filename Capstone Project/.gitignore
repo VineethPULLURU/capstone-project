@@ -1,0 +1,10 @@
+# server
+server/node_modules/
+server/src/node_modules/
+server/dist/
+server/build/
+
+# client
+client/node_modules/
+client/dist/
+client/build/
