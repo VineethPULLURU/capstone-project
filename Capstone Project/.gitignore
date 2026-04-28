@@ -3,7 +3,7 @@ server/node_modules/
 server/src/node_modules/
 server/dist/
 server/build/
-server/.env/
+.env
 
 # client
 client/node_modules/
